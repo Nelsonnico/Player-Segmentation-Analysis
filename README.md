@@ -3,6 +3,7 @@
 **Unsupervised learning (K-Means) for product and monetization insights in a mobile game.**
 
 Author: **Nelson Nicolás Hernández Becerra**
+
 Tech stack: Python · pandas · scikit-learn · SciPy · Matplotlib · Seaborn
 
 ---
